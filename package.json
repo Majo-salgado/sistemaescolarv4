@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  },
+  "name": "sistemaescolarv3dc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "majo",
+  "license": "MIT"
+}
